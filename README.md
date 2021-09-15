@@ -23,11 +23,11 @@
 ### 4. Timeseries / Предсказание спроса на такси в следующий час 
 **Инструменты:** statsmodels, pandas, numpy, seaborn, matplotlib, sklearn  
 **Цель:** спрогнозировать количество заказов такси на следующий час  
-[Project README](https://github.com/winooze/DS_projects/blob/main/2.%20Timeseries/README.md)
+[Project README](https://github.com/winooze/DS_projects/blob/main/4.%20Timeseries/README.md)
 
 ### 5. Computer_vision_NN / Определение возраста покупателей c помощью архитектуры ResNet50
 **Инструменты:** pandas, matplotlib, keras  
 **Цель:** Предсказание возраста человека по фотографии  
-[Project README](https://github.com/winooze/DS_projects/blob/main/2.%20Computer_vision_NN/README.md)
+[Project README](https://github.com/winooze/DS_projects/blob/main/5.%20Computer_vision_NN/README.md)
 
 Данное портфолио будет пополняться. Если вас интересует конкретная тема, не представленная в данном репозитории, пожалуйста, свяжитесь со мной по почте: karina.a.solodovnik@gmail.com
